@@ -9,3 +9,5 @@ It seems that strava read the entire fit files to produce some values, like aver
 The issue is that Garmin Connect try to read the Session messages, which does contains zeroed values for the average_power, etc.
 
 This script simply read all your .fit files in the current directory, and create a patched_xxx.fit file that contains the average values.
+
+Thanks to @muktihari for [Fit](https://github.com/muktihari/fit) library that provide the ability to parse .fit files.
