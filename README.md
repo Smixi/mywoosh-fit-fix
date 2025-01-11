@@ -1,5 +1,8 @@
-# mywoosh-fit-fix
 
+## Archived, no more needed ! 
+Since the december update, it seems MyWoosh fixed the average data issue and now also output laps !
+
+# mywoosh-fit-fix
 A simple go script to patch fit files from mywoosh.
 
 Mywoosh produce a FIT files that you can download directly on their website, or on Strava if you have enabled Connections.
